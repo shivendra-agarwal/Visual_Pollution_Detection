@@ -20,6 +20,9 @@ Steps:
 6. Re-train using the older weights with the new set of data (original + augmented) and save.  
 7. Run detect.py to test the model  
   
+   
+Total Classes = 11  
+Classes = ['GRAFFITI', 'FADED_SIGNAGE', 'POTHOLES', 'GARBAGE', 'CONSTRUCTION_ROAD', 'BROKEN_SIGNAGE', 'BAD_STREETLIGHT', 'BAD_BILLBOARD', 'SAND_ON_ROAD', 'CLUTTER_SIDEWALK', 'UNKEPT_FACADE']  
   
 ### Image Augmentation Table
 | Augmentation  | Train | Valid |
