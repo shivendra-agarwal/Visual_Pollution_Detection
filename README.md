@@ -21,9 +21,14 @@ Steps:
 7. Run detect.py to test the model  
   
   
+| Augmentation  | Train | Valid |
+| ------------- | ----- | ----- |
+| Original  | 6443 | 1431 |
+|  + Brightness | 9660 | 2169 |
   
-Validation  
+  
+### Validation  
 ![val_batch1_labels](https://user-images.githubusercontent.com/52592854/219841301-9fdad5df-50a4-4c4d-b355-cd4c30ef5d02.jpg)
 
-Prediction  
+### Prediction  
 ![val_batch1_pred](https://user-images.githubusercontent.com/52592854/219841310-53f4a2bf-7ff7-4803-bc35-3534284ab219.jpg)
