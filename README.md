@@ -1,11 +1,11 @@
-Dataset: Visual Pollution Detection
-Model: YOLOv5s
-Author: Shivendra Agarwal
-Connect with me:
-LinkedIn: https://www.linkedin.com/in/shivendra-agarwal-93027a141/
-
-Steps:
-
+Dataset: Visual Pollution Detection  
+Model: YOLOv5s  
+Author: Shivendra Agarwal  
+Connect with me:  
+LinkedIn: https://www.linkedin.com/in/shivendra-agarwal-93027a141/  
+  
+Steps:  
+  
 Download Dataset
 Convert .csv annotation into Yolov5 readable format
 Divide into train, valid, test
