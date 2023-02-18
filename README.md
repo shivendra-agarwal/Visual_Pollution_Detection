@@ -21,6 +21,7 @@ Steps:
 7. Run detect.py to test the model  
   
   
+### Image Augmentation Table
 | Augmentation  | Train | Valid |
 | ------------- | ----- | ----- |
 | Original  | 6443 | 1431 |
