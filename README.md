@@ -25,8 +25,13 @@ Steps:
 | ------------- | ----- | ----- |
 | Original  | 6443 | 1431 |
 |  + Brightness | 9660 | 2169 |
-  
-  
+|  + Saturation | 12897 | 2869 |
+|  + Grayscale | 16163 | 3618 |
+|  + Nosie | 19440 | 4340 |
+|  + Blur | 22690 | 5060 |
+|  + Hue(RGB) | 24270 | 5409 |
+
+
 ### Validation  
 ![val_batch1_labels](https://user-images.githubusercontent.com/52592854/219841301-9fdad5df-50a4-4c4d-b355-cd4c30ef5d02.jpg)
 
