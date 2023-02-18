@@ -19,6 +19,11 @@ Steps:
   f. Hue(RBG)  
 6. Re-train using the older weights with the new set of data (original + augmented) and save.  
 7. Run detect.py to test the model  
-
+  
+  
+  
+Validation  
 ![val_batch1_labels](https://user-images.githubusercontent.com/52592854/219841301-9fdad5df-50a4-4c4d-b355-cd4c30ef5d02.jpg)
+
+Prediction  
 ![val_batch1_pred](https://user-images.githubusercontent.com/52592854/219841310-53f4a2bf-7ff7-4803-bc35-3534284ab219.jpg)
