@@ -6,7 +6,7 @@ LinkedIn: https://www.linkedin.com/in/shivendra-agarwal-93027a141/
   
 Steps:  
   
-1. Download Dataset  
+1. Download Dataset https://drive.google.com/file/d/1ULqYtd9yomeGz53WBhgRdPRFB37ppeDU/view  
 2. Convert .csv annotation into Yolov5 readable format  
 3. Divide into train, valid, test  
 4. Create a base model with the Test and Valid images for benchmarking, with optimal data, epoch, batch, and image size and save the wieghts  
